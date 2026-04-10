@@ -1,5 +1,3 @@
----
-
 # Laboratorium 1: Proces KDD i przetwarzanie wstępne danych
 ### Zaawansowana Eksploracja Danych
 
